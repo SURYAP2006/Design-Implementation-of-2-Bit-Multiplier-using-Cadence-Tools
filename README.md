@@ -1,5 +1,5 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools 
-
+## Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools 
+## EX - 06
 ## Aim:
 
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
